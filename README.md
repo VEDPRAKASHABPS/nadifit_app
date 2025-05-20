@@ -33,9 +33,11 @@ So, detailed features and source code are **not publicly available** at the mome
 
 <table>
   <tr>
+     <td><img src="https://github.com/VEDPRAKASHABPS/nadifit_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.43%20(1).jpeg?raw=true" width="200" /></td>
+     <td><img src="https://github.com/VEDPRAKASHABPS/nadifit_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.45.jpeg?raw=true" width="200" /></td>
     <td><img src="https://github.com/VEDPRAKASHABPS/nadifit_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.42%20(2).jpeg?raw=true" width="200" /></td>
-    <td><img src="https://github.com/VEDPRAKASHABPS/nadifit_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.43%20(1).jpeg?raw=true" width="200" /></td>
-    <td><img src="https://github.com/VEDPRAKASHABPS/nadifit_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.45.jpeg?raw=true" width="200" /></td>
+   
+
   </tr>
   <tr>
     <td><img src="https://github.com/VEDPRAKASHABPS/nadifit_app/blob/main/as.jpeg?raw=true" width="200" /></td>
