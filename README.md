@@ -17,3 +17,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # nadifit_app
+[![Watch Video](assets/nadifit_preview.png)](https://github.com/VEDPRAKASHABPS/nadifit_app/raw/main/assets/NADIFITVD.mp4)
